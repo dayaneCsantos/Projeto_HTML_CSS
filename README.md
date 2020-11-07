@@ -1,4 +1,5 @@
 # Projeto Simples (HTML/CSS)
+<img src='https://i.imgur.com/c2KXKd4.png'>
 
 ## Construido com:
 
